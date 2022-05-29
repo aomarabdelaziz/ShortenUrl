@@ -1,0 +1,125 @@
+header a.logo {
+    font: 900 49px asap,arial;
+    color: #0186da;
+    letter-spacing: -1px;
+    text-shadow: 0 2px 2px #ddd;
+    word-wrap: break-word;
+    text-decoration: none;
+
+}
+
+a {
+    color: #006cff;
+    text-decoration: none;
+}
+
+
+
+section#urlbox h1 {
+    margin: 10px auto 30px auto;
+}
+h1 {
+    margin: 0 0 -10px 0;
+    font: bold 36px asap,arial;
+    color: #505050;
+    letter-spacing: -1px;
+}
+#formurl input[type=text] {
+    display: table-cell;
+    width: 100%;
+    height: 56px;
+    padding: 10px 16px;
+    font: 17px lato,arial;
+    color: #000;
+    background: #fff;
+    border: 1px solid #bbb;
+    border-right: 0;
+    border-radius: 3px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    box-sizing: border-box;
+}
+a {
+    text-underline: none;
+}
+#formurl input[type=submit] {
+    height: 56px;
+    padding: 10px 16px;
+    font: bold 17px lato,arial;
+    color: #fff;
+    background-color: #2c87c5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    white-space: nowrap;
+    border: 0;
+    border-radius: 3px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px;
+    -webkit-appearance: button;
+    margin: 0;
+}
+p {
+    font: 16px "source sans pro",arial;
+    color: #484848;
+    line-height: 1.5;
+    text-align: left;
+}
+section#urlbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }* { box-sizing: border-box; }h1 { margin: 0px 0px -10px; font: bold 36px asap, arial; color: rgb(80, 80, 80); letter-spacing: -1px; }section#urlbox h1 { margin: 10px auto 30px; }#formurl { display: table; max-width: 600px; margin: 0px auto; }#formurl #formbutton { display: table-cell; width: 1%; box-sizing: border-box; vertical-align: middle; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }section .boxtextcenter { margin: 10px auto 20px; text-align: center; max-width: 620px; }br { clear: both; }
+section#urlbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }* { box-sizing: border-box; }h1 { margin: 0px 0px -10px; font: bold 36px asap, arial; color: rgb(80, 80, 80); letter-spacing: -1px; }section#urlbox h1 { margin: 10px auto 30px; }#formurl { display: table; max-width: 600px; margin: 0px auto; }#formurl #formbutton { display: table-cell; width: 1%; box-sizing: border-box; vertical-align: middle; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }section .boxtextcenter { margin: 10px auto 20px; text-align: center; max-width: 620px; }br { clear: both; }section#urlbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }* { box-sizing: border-box; }h1 { margin: 0px 0px -10px; font: bold 36px asap, arial; color: rgb(80, 80, 80); letter-spacing: -1px; }section#urlbox h1 { margin: 10px auto 30px; }#formurl { display: table; max-width: 600px; margin: 0px auto; }#formurl #formbutton { display: table-cell; width: 1%; box-sizing: border-box; vertical-align: middle; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }section .boxtextcenter { margin: 10px auto 20px; text-align: center; max-width: 620px; }br { clear: both; }section#emailbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }section#emailbox h2 { margin: 15px auto 20px; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }.colorbutton { display: inline-block; background: rgb(44, 135, 197); font: bold 17px lato, arial; color: rgb(255, 255, 255); padding: 16px 26px; border: 0px; border-radius: 3px; text-decoration: none; margin: 0px 0px 5px; }.colorbutton:hover { text-decoration: none; }.textsmall { font-size: 13px; color: rgb(153, 153, 153); }.aligncenter { text-align: center; }img { max-width: 100%; height: auto; vertical-align: middle; }
+section#urlbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }* { box-sizing: border-box; }h1 { margin: 0px 0px -10px; font: bold 36px asap, arial; color: rgb(80, 80, 80); letter-spacing: -1px; }section#urlbox h1 { margin: 10px auto 30px; }#formurl { display: table; max-width: 600px; margin: 0px auto; }#formurl #formbutton { display: table-cell; width: 1%; box-sizing: border-box; vertical-align: middle; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }section .boxtextcenter { margin: 10px auto 20px; text-align: center; max-width: 620px; }br { clear: both; }section#urlbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }* { box-sizing: border-box; }h1 { margin: 0px 0px -10px; font: bold 36px asap, arial; color: rgb(80, 80, 80); letter-spacing: -1px; }section#urlbox h1 { margin: 10px auto 30px; }#formurl { display: table; max-width: 600px; margin: 0px auto; }#formurl #formbutton { display: table-cell; width: 1%; box-sizing: border-box; vertical-align: middle; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }section .boxtextcenter { margin: 10px auto 20px; text-align: center; max-width: 620px; }br { clear: both; }section#emailbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }section#emailbox h2 { margin: 15px auto 20px; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }.colorbutton { display: inline-block; background: rgb(44, 135, 197); font: bold 17px lato, arial; color: rgb(255, 255, 255); padding: 16px 26px; border: 0px; border-radius: 3px; text-decoration: none; margin: 0px 0px 5px; }.colorbutton:hover { text-decoration: none; }.textsmall { font-size: 13px; color: rgb(153, 153, 153); }.aligncenter { text-align: center; }img { max-width: 100%; height: auto; vertical-align: middle; }section#urlbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }* { box-sizing: border-box; }h1 { margin: 0px 0px -10px; font: bold 36px asap, arial; color: rgb(80, 80, 80); letter-spacing: -1px; }section#urlbox h1 { margin: 10px auto 30px; }#formurl { display: table; max-width: 600px; margin: 0px auto; }#formurl #formbutton { display: table-cell; width: 1%; box-sizing: border-box; vertical-align: middle; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }section .boxtextcenter { margin: 10px auto 20px; text-align: center; max-width: 620px; }br { clear: both; }section#emailbox { margin: 0px auto 20px; max-width: 758px; box-shadow: rgb(204, 204, 204) 0px 1px 4px; border-radius: 2px; padding: 10px 30px 5px; background: rgb(255, 255, 255); text-align: center; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }section#emailbox h2 { margin: 15px auto 20px; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }.colorbutton { display: inline-block; background: rgb(44, 135, 197); font: bold 17px lato, arial; color: rgb(255, 255, 255); padding: 16px 26px; border: 0px; border-radius: 3px; text-decoration: none; margin: 0px 0px 5px; }.colorbutton:hover { text-decoration: none; }.textsmall { font-size: 13px; color: rgb(153, 153, 153); }.aligncenter { text-align: center; }img { max-width: 100%; height: auto; vertical-align: middle; }section#content { max-width: 720px; margin: 30px auto 20px; }
+section#content { max-width: 720px; margin: 30px auto 20px; }* { box-sizing: border-box; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }
+
+section#content { max-width: 720px; margin: 30px auto 20px; }* { box-sizing: border-box; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }section#content { max-width: 720px; margin: 30px auto 20px; }* { box-sizing: border-box; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }
+
+
+section#content p ,div#box #column p {
+    margin-top: 20px;
+}
+section#content { max-width: 720px; margin: 30px auto 20px; }* { box-sizing: border-box; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }section#content { max-width: 720px; margin: 30px auto 20px; }* { box-sizing: border-box; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }section#content { max-width: 720px; margin: 30px auto 20px; }* { box-sizing: border-box; }h2 { margin: 0px 0px -10px; font: bold 26px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }p { font: 16px / 1.5 "source sans pro", arial; color: rgb(72, 72, 72); text-align: left; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }#row::after { display: table; content: ""; clear: both; }#column { float: left; width: 33.33%; min-height: 210px; padding: 0px 10px; text-align: center; }img { max-width: 100%; height: auto; vertical-align: middle; }h3 { margin: 0px 0px -10px; font: bold 20px asap, arial; color: rgb(80, 80, 80); letter-spacing: 0px; }.aligncenter { text-align: center; }
+
+
+a {
+    text-decoration: none;
+
+}
+header { text-align: center; }* { box-sizing: border-box; }header #top { background: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 1px 4px; }header #logo { padding: 40px 20px 25px; }a { color: rgb(0, 108, 255); text-decoration: none; }a:hover { text-decoration: underline; }.logo { font: bold 40px arial, tahoma; color: rgb(34, 34, 34); overflow-wrap: break-word; }header a.logo { font: 900 49px asap, arial; color: rgb(1, 134, 218); letter-spacing: -1px; text-shadow: rgb(221, 221, 221) 0px 2px 2px; overflow-wrap: break-word; }header a.logo:hover { text-decoration: none; }
+
+#formurl input[type=button], #formurl input[type=submit] {
+    height: 56px;
+    padding: 10px 16px;
+    font: bold 17px lato,arial;
+    color: #fff;
+    background-color: #2c87c5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    white-space: nowrap;
+    border: 0;
+    border-radius: 3px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px;
+    -webkit-appearance: button;
+    margin: 0;
+}
+section .squarebox {
+    display: inline-block;
+    background: #fff;
+    padding: 15px 20px;
+    border-radius: 3px;
+    font: 55px lato,arial;
+    color: #444;
+}
+.colorbutton {
+    display: inline-block;
+    background: #2c87c5;
+    font: bold 17px lato,arial;
+    color: #fff;
+    padding: 16px 26px;
+    border: 0;
+    border-radius: 3px;
+    text-decoration: none;
+    margin: 0 0 5px 0;
+}
